@@ -1,5 +1,5 @@
 ---
-title: "ブログを始めて作りました. "
+title: "ブログ作ってみました "
 excerpt: "ブログを始めて作りました. これから暇があれば更新します."
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
